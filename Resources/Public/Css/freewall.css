@@ -1,0 +1,23 @@
+.cell {
+	background-position: center center;
+	background-repeat: no-repeat;
+	background-size: cover;
+	position: absolute;
+	background-color: #222;
+	padding: 1px;
+	border: 1px solid #ccc666;
+	border-radius: 4px;
+}
+.thumbnail {
+	width: 124px;
+	height: 124px;
+}
+#left {
+	width: 50%;
+	margin: 10px;
+}
+#right {
+	width: 50%;
+	margin: 10px;
+	background-color: red;
+}

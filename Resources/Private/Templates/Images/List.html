@@ -1,0 +1,12 @@
+<f:layout name="Default" />
+<f:section name="content">
+
+    <div id="freewall" class="free-wall">
+        <f:for each="{gallery}" as="picture">
+            <a href="{picture.image.originalResource.publicUrl}" title="{picture.image.originalResource.title}">
+                <div class="cell" style="width: 120px; height: 120px;background-image: url({picture.image.originalResource.publicUrl});"  alt=""></div>
+            </a>
+        </f:for>
+    </div>
+
+</f:section>

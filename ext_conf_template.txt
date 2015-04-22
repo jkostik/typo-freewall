@@ -1,0 +1,11 @@
+# cat=basic/enable/10; type=boolean; label=Include JavaScript Framework jQuery v1.11.0 as Default.
+includeJQueryFramework = 0
+
+# cat=basic/enable/20; type=boolean; label=Include jQuery Plugin Free Wall.
+includeFreeWall = 1
+
+# cat=basic/enable/30; type=string; label=Which CSS class to use for lightbox links (only applicable if lightbox rendering is enabled)
+imagePopupCssClass = free-wall
+
+# cat=basic/enable/40; type=options[grid-layouts,fit-height,images-layouts]; label=LLL:EXT:Resources/Private/Language/locallang.xml:propertys.freewallLayout
+freewallLayout = grid-layouts

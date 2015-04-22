@@ -1,0 +1,8 @@
+page.includeJSFooter {
+    freewalljs = EXT:freewall/Resources/Public/JavaScript/freewall.js
+    freewall_programm = EXT:freewall/Resources/Public/JavaScript/programm.js
+}
+
+page.includeCSS {
+    freewallcss = EXT:freewall/Resources/Public/Css/freewall.css
+}

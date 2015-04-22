@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<xliff version="1.0">
+	<file source-language="en" datatype="plaintext" original="messages" date="2015-01-18T22:02:38Z" product-name="freewall">
+		<header/>
+		<body>
+			<trans-unit id="tx_freewall_domain_model_images">
+				<source>Images</source>
+			</trans-unit>
+		</body>
+	</file>
+</xliff>

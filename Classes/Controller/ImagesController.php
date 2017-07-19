@@ -53,7 +53,7 @@ class ImagesController extends \TYPO3\CMS\Extbase\Mvc\Controller\ActionControlle
 
 
         /**
-	 * action list
+	 * action list - einfach so
 	 *
 	 * @return void
 	 */
